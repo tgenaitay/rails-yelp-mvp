@@ -1,0 +1,17 @@
+@import "utilities";
+@import "footer";
+@import "navbar";
+
+h1, h2, h3 {
+  margin: 40px 0px;
+  font-weight: bold;
+}
+
+.jumbotron {
+  padding-top: 8px;
+  margin-top:20px;
+}
+
+.jumbotron p {
+    font-size: 18px;
+}
